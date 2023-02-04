@@ -1,0 +1,38 @@
+body{
+    background: gainsboro;
+    padding: 0px
+}
+div.container {
+    background-color: white;
+}   
+div{
+    border: 1px dashed clear;
+    background-color: white;
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    Margin: center;
+}
+div1{
+    background-color: white;
+}
+div2{
+    background-color: white;
+}
+.navbar{
+    background: white;
+}
+.feed{
+    background: pink;
+}
+.w600{
+
+}
+p {
+    background-color: white;
+}
+img {
+    width: 400px;
+    height: 200px;
+    Margin: center;
+}
